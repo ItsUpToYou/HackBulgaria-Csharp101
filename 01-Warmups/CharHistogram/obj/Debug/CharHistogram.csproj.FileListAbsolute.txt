@@ -1,0 +1,5 @@
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\CharHistogram\bin\Debug\CharHistogram.exe.config
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\CharHistogram\bin\Debug\CharHistogram.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\CharHistogram\bin\Debug\CharHistogram.pdb
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\CharHistogram\obj\Debug\CharHistogram.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\CharHistogram\obj\Debug\CharHistogram.pdb

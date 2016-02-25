@@ -1,0 +1,5 @@
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\SumAllNumbersInGivenString\bin\Debug\SumAllNumbersInGivenString.exe.config
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\SumAllNumbersInGivenString\bin\Debug\SumAllNumbersInGivenString.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\SumAllNumbersInGivenString\bin\Debug\SumAllNumbersInGivenString.pdb
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\SumAllNumbersInGivenString\obj\Debug\SumAllNumbersInGivenString.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\SumAllNumbersInGivenString\obj\Debug\SumAllNumbersInGivenString.pdb

@@ -1,0 +1,1 @@
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\VowelsInString\bin\Debug\VowelsInString.exe.config

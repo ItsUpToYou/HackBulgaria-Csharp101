@@ -1,0 +1,6 @@
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\WorkingWithDigits\bin\Debug\WorkingWithDigits.exe.config
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\WorkingWithDigits\bin\Debug\WorkingWithDigits.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\WorkingWithDigits\bin\Debug\WorkingWithDigits.pdb
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\WorkingWithDigits\obj\Debug\WorkingWithDigits.csprojResolveAssemblyReference.cache
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\WorkingWithDigits\obj\Debug\WorkingWithDigits.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\WorkingWithDigits\obj\Debug\WorkingWithDigits.pdb

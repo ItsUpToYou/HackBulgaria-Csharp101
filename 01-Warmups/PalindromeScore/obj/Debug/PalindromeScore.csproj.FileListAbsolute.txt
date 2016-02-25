@@ -1,0 +1,5 @@
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\PalindromeScore\bin\Debug\PalindromeScore.exe.config
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\PalindromeScore\bin\Debug\PalindromeScore.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\PalindromeScore\bin\Debug\PalindromeScore.pdb
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\PalindromeScore\obj\Debug\PalindromeScore.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\HackBulgaria-Csharp101\01-Warmups\PalindromeScore\obj\Debug\PalindromeScore.pdb
