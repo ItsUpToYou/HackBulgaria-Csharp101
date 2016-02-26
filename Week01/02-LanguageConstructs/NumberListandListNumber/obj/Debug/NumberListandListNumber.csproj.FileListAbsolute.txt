@@ -1,0 +1,6 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\02-LanguageConstructs\NumberListandListNumber\bin\Debug\NumberListandListNumber.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\02-LanguageConstructs\NumberListandListNumber\bin\Debug\NumberListandListNumber.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\02-LanguageConstructs\NumberListandListNumber\bin\Debug\NumberListandListNumber.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\02-LanguageConstructs\NumberListandListNumber\obj\Debug\NumberListandListNumber.csprojResolveAssemblyReference.cache
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\02-LanguageConstructs\NumberListandListNumber\obj\Debug\NumberListandListNumber.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\02-LanguageConstructs\NumberListandListNumber\obj\Debug\NumberListandListNumber.pdb

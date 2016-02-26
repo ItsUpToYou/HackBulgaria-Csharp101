@@ -1,0 +1,6 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\02-LanguageConstructs\IsStringAanAnagramOfStringB\bin\Debug\IsStringAanAnagramOfStringB.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\02-LanguageConstructs\IsStringAanAnagramOfStringB\bin\Debug\IsStringAanAnagramOfStringB.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\02-LanguageConstructs\IsStringAanAnagramOfStringB\bin\Debug\IsStringAanAnagramOfStringB.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\02-LanguageConstructs\IsStringAanAnagramOfStringB\obj\Debug\IsStringAanAnagramOfStringB.csprojResolveAssemblyReference.cache
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\02-LanguageConstructs\IsStringAanAnagramOfStringB\obj\Debug\IsStringAanAnagramOfStringB.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\02-LanguageConstructs\IsStringAanAnagramOfStringB\obj\Debug\IsStringAanAnagramOfStringB.pdb
