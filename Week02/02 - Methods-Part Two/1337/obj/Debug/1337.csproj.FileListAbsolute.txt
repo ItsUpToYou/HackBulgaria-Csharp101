@@ -1,0 +1,6 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\1337\bin\Debug\1337.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\1337\bin\Debug\1337.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\1337\bin\Debug\1337.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\1337\obj\Debug\1337.csprojResolveAssemblyReference.cache
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\1337\obj\Debug\1337.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\1337\obj\Debug\1337.pdb

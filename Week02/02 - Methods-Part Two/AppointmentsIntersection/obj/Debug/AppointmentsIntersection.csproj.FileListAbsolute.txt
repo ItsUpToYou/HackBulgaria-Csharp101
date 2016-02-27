@@ -1,0 +1,6 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\AppointmentsIntersection\bin\Debug\AppointmentsIntersection.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\AppointmentsIntersection\bin\Debug\AppointmentsIntersection.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\AppointmentsIntersection\bin\Debug\AppointmentsIntersection.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\AppointmentsIntersection\obj\Debug\AppointmentsIntersection.csprojResolveAssemblyReference.cache
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\AppointmentsIntersection\obj\Debug\AppointmentsIntersection.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\AppointmentsIntersection\obj\Debug\AppointmentsIntersection.pdb

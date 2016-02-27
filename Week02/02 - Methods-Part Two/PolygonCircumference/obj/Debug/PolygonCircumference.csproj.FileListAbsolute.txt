@@ -1,0 +1,5 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\PolygonCircumference\bin\Debug\PolygonCircumference.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\PolygonCircumference\bin\Debug\PolygonCircumference.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\PolygonCircumference\bin\Debug\PolygonCircumference.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\PolygonCircumference\obj\Debug\PolygonCircumference.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\PolygonCircumference\obj\Debug\PolygonCircumference.pdb

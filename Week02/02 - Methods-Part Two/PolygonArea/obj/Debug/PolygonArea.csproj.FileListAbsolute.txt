@@ -1,0 +1,6 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\PolygonArea\bin\Debug\PolygonArea.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\PolygonArea\bin\Debug\PolygonArea.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\PolygonArea\bin\Debug\PolygonArea.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\PolygonArea\obj\Debug\PolygonArea.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\PolygonArea\obj\Debug\PolygonArea.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\PolygonArea\obj\Debug\PolygonArea.csprojResolveAssemblyReference.cache

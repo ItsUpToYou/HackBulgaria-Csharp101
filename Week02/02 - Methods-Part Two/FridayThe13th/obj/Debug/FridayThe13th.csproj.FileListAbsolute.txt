@@ -1,0 +1,6 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\FridayThe13th\obj\Debug\FridayThe13th.csprojResolveAssemblyReference.cache
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\FridayThe13th\bin\Debug\FridayThe13th.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\FridayThe13th\bin\Debug\FridayThe13th.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\FridayThe13th\bin\Debug\FridayThe13th.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\FridayThe13th\obj\Debug\FridayThe13th.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\FridayThe13th\obj\Debug\FridayThe13th.pdb

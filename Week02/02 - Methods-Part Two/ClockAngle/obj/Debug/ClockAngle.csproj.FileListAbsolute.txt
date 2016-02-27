@@ -1,0 +1,6 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\ClockAngle\bin\Debug\ClockAngle.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\ClockAngle\bin\Debug\ClockAngle.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\ClockAngle\bin\Debug\ClockAngle.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\ClockAngle\obj\Debug\ClockAngle.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\ClockAngle\obj\Debug\ClockAngle.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\ClockAngle\obj\Debug\ClockAngle.csprojResolveAssemblyReference.cache

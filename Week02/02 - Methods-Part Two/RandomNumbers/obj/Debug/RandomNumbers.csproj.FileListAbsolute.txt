@@ -1,0 +1,6 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\RandomNumbers\bin\Debug\RandomNumbers.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\RandomNumbers\bin\Debug\RandomNumbers.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\RandomNumbers\bin\Debug\RandomNumbers.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\RandomNumbers\obj\Debug\RandomNumbers.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\RandomNumbers\obj\Debug\RandomNumbers.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\RandomNumbers\obj\Debug\RandomNumbers.csprojResolveAssemblyReference.cache

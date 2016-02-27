@@ -1,0 +1,6 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\BankAccountBalance\bin\Debug\BankAccountBalance.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\BankAccountBalance\bin\Debug\BankAccountBalance.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\BankAccountBalance\bin\Debug\BankAccountBalance.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\BankAccountBalance\obj\Debug\BankAccountBalance.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\BankAccountBalance\obj\Debug\BankAccountBalance.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\BankAccountBalance\obj\Debug\BankAccountBalance.csprojResolveAssemblyReference.cache
