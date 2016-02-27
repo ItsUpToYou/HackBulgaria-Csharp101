@@ -1,0 +1,6 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\SearchInList\bin\Debug\SearchInList.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\SearchInList\bin\Debug\SearchInList.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\SearchInList\bin\Debug\SearchInList.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\SearchInList\obj\Debug\SearchInList.csprojResolveAssemblyReference.cache
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\SearchInList\obj\Debug\SearchInList.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\SearchInList\obj\Debug\SearchInList.pdb

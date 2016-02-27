@@ -1,0 +1,6 @@
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\Week02\ReversAString\bin\Debug\ReversAString.exe.config
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\Week02\ReversAString\bin\Debug\ReversAString.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\Week02\ReversAString\bin\Debug\ReversAString.pdb
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\Week02\ReversAString\obj\Debug\ReversAString.csprojResolveAssemblyReference.cache
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\Week02\ReversAString\obj\Debug\ReversAString.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\Week02\ReversAString\obj\Debug\ReversAString.pdb

@@ -1,0 +1,6 @@
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\Week02\InflateRectangle\bin\Debug\InflateRectangle.exe.config
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\Week02\InflateRectangle\obj\Debug\InflateRectangle.csprojResolveAssemblyReference.cache
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\Week02\InflateRectangle\bin\Debug\InflateRectangle.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\Week02\InflateRectangle\bin\Debug\InflateRectangle.pdb
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\Week02\InflateRectangle\obj\Debug\InflateRectangle.exe
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\Week02\InflateRectangle\obj\Debug\InflateRectangle.pdb

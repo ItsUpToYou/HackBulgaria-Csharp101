@@ -1,0 +1,6 @@
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\Week02\DirectoryTraversal\bin\Debug\DirectoryTraversal.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\DirectoryTraversal\bin\Debug\DirectoryTraversal.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\DirectoryTraversal\bin\Debug\DirectoryTraversal.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\DirectoryTraversal\obj\Debug\DirectoryTraversal.csprojResolveAssemblyReference.cache
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\DirectoryTraversal\obj\Debug\DirectoryTraversal.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\DirectoryTraversal\obj\Debug\DirectoryTraversal.pdb

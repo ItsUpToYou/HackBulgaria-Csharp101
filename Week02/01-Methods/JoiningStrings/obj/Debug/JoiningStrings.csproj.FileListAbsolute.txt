@@ -1,0 +1,5 @@
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\Week02\JoiningStrings\bin\Debug\JoiningStrings.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\JoiningStrings\bin\Debug\JoiningStrings.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\JoiningStrings\bin\Debug\JoiningStrings.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\JoiningStrings\obj\Debug\JoiningStrings.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\JoiningStrings\obj\Debug\JoiningStrings.pdb

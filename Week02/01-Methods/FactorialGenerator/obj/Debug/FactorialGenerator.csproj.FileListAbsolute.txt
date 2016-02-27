@@ -1,0 +1,5 @@
+c:\users\velko.kapitanov\documents\visual studio 2015\Projects\Week02\FactorialGenerator\bin\Debug\FactorialGenerator.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\FactorialGenerator\bin\Debug\FactorialGenerator.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\FactorialGenerator\bin\Debug\FactorialGenerator.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\FactorialGenerator\obj\Debug\FactorialGenerator.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\Projects\Week02\FactorialGenerator\obj\Debug\FactorialGenerator.pdb
