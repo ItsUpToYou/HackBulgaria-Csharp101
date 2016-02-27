@@ -1,0 +1,6 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\BirthdayRanges\bin\Debug\BirthdayRanges.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\BirthdayRanges\bin\Debug\BirthdayRanges.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\BirthdayRanges\bin\Debug\BirthdayRanges.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\BirthdayRanges\obj\Debug\BirthdayRanges.csprojResolveAssemblyReference.cache
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\BirthdayRanges\obj\Debug\BirthdayRanges.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\BirthdayRanges\obj\Debug\BirthdayRanges.pdb

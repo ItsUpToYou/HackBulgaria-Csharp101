@@ -1,0 +1,6 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\GrayscaleImage\bin\Debug\GrayscaleImage.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\GrayscaleImage\bin\Debug\GrayscaleImage.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\GrayscaleImage\bin\Debug\GrayscaleImage.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\GrayscaleImage\obj\Debug\GrayscaleImage.csprojResolveAssemblyReference.cache
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\GrayscaleImage\obj\Debug\GrayscaleImage.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\GrayscaleImage\obj\Debug\GrayscaleImage.pdb

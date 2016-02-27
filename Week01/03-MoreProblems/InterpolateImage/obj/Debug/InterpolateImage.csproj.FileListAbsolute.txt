@@ -1,0 +1,5 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\InterpolateImage\bin\Debug\InterpolateImage.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\InterpolateImage\bin\Debug\InterpolateImage.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\InterpolateImage\bin\Debug\InterpolateImage.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\InterpolateImage\obj\Debug\InterpolateImage.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\InterpolateImage\obj\Debug\InterpolateImage.pdb

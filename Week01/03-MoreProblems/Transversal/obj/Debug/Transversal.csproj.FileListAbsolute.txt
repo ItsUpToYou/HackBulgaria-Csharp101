@@ -1,0 +1,5 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\Transversal\bin\Debug\Transversal.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\Transversal\bin\Debug\Transversal.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\Transversal\bin\Debug\Transversal.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\Transversal\obj\Debug\Transversal.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\Transversal\obj\Debug\Transversal.pdb

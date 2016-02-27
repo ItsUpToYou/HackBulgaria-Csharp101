@@ -1,0 +1,5 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\MatrixBombing\bin\Debug\MatrixBombing.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\MatrixBombing\bin\Debug\MatrixBombing.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\MatrixBombing\bin\Debug\MatrixBombing.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\MatrixBombing\obj\Debug\MatrixBombing.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\MatrixBombing\obj\Debug\MatrixBombing.pdb

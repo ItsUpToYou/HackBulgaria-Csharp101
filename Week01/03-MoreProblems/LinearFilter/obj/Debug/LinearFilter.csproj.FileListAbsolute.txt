@@ -1,0 +1,1 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week01\03-MoreProblems\LinearFilter\bin\Debug\LinearFilter.exe.config
