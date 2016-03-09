@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl" Namespace="TicketSyst.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2005">
+        <EntityContainer Name="TicketSystTargetContainer" >
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="TicketSyst" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+        <EntityContainer Name="TicketSystContainer" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Cities" EntityType="TicketSyst.Cities" />
+          <EntitySet Name="Trains" EntityType="TicketSyst.Trains" />
+          <EntitySet Name="Schedules" EntityType="TicketSyst.Schedule" />
+          <EntitySet Name="Users" EntityType="TicketSyst.User" />
+          <EntitySet Name="Tickets" EntityType="TicketSyst.Ticket" />
+          <EntitySet Name="DiscountCards" EntityType="TicketSyst.DiscountCard" />
+        </EntityContainer>
+        <EntityType Name="Cities">
+          <Key>
+            <PropertyRef Name="CityId" />
+          </Key>
+          <Property Name="CityId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CityName" Type="String" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Trains">
+          <Key>
+            <PropertyRef Name="TrainId" />
+          </Key>
+          <Property Name="TrainId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Identifier" Type="Guid" Nullable="false" />
+          <Property Name="SeatId" Type="Byte" Nullable="false" />
+          <Property Name="BriefDescription" Type="String" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Schedule">
+          <Key>
+            <PropertyRef Name="ScheduleId" />
+          </Key>
+          <Property Name="ScheduleId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="StartingCity" Type="String" Nullable="false" />
+          <Property Name="CityStop" Type="String" Nullable="false" />
+          <Property Name="TravelTime" Type="Time" Nullable="false" />
+          <Property Name="TrainIdentifier" Type="String" Nullable="false" />
+          <Property Name="TicketPrice" Type="String" Nullable="false" />
+          <Property Name="EndCity" Type="String" Nullable="false" />
+        </EntityType>
+        <EntityType Name="User">
+          <Key>
+            <PropertyRef Name="UserId" />
+          </Key>
+          <Property Name="UserId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Email" Type="String" Nullable="false" />
+          <Property Name="UserName" Type="String" Nullable="false" />
+          <Property Name="Password" Type="String" Nullable="false" />
+          <Property Name="DiscountCardNumber" Type="Int64" Nullable="false" />
+          <Property Name="CreditCardNumber" Type="Int64" Nullable="false" />
+          <Property Name="Address" Type="String" Nullable="false" />
+          <Property Name="ZipCode" Type="Int16" Nullable="false" />
+          <Property Name="FirstName" Type="String" Nullable="false" />
+          <Property Name="LastName" Type="String" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Ticket">
+          <Key>
+            <PropertyRef Name="TicketId" />
+          </Key>
+          <Property Name="TicketId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="TripDateAndTime" Type="String" Nullable="false" />
+          <Property Name="OriginalPrice" Type="String" Nullable="false" />
+          <Property Name="Price" Type="String" Nullable="false" />
+          <Property Name="UserSoldTo" Type="String" Nullable="false" />
+          <Property Name="SeatNumber" Type="String" Nullable="false" />
+        </EntityType>
+        <EntityType Name="DiscountCard">
+          <Key>
+            <PropertyRef Name="DiscountCardId" />
+          </Key>
+          <Property Name="DiscountCardId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Type" Type="String" Nullable="false" />
+          <Property Name="DiscountAmount" Type="String" Nullable="false" />
+          <Property Name="FirstClass" Type="String" Nullable="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs" Space="C-S">
+        <Alias Key="Model" Value="TicketSyst" />
+        <Alias Key="Target" Value="TicketSyst.Store" />
+        <EntityContainerMapping CdmEntityContainer="TicketSystContainer" StorageEntityContainer="TicketSystTargetContainer">
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <edmx:Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </edmx:Connection>
+    <edmx:Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </edmx:Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
