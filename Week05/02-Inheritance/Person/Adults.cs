@@ -1,12 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace Person
 {
-    class Adults
+    public class Adults : Person
     {
+        public List<Child> Children { get; set; }
+
+        public Adults(List<Child> ch)
+        {
+            this.Children = ch;
+        }
+
+        public override string Doing()
+        {
+            return "Work";
+        }
+
     }
 }

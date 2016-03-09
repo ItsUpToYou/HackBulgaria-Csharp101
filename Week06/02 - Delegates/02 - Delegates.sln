@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aggregates", "Aggregates\Aggregates.csproj", "{35784E8A-E4FB-4662-8991-FBFC877FEDF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filters", "Filters\Filters.csproj", "{5E388DDD-ADCF-408B-958D-21D06F80E693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageAggregator", "AverageAggregator\AverageAggregator.csproj", "{607ECC12-A5E5-4D96-90BB-EC5A349F4CDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INotifyPropertyCh", "INotifyPropertyCh\INotifyPropertyCh.csproj", "{186E43A5-96B6-4CF4-BEE2-2BD91E84B428}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35784E8A-E4FB-4662-8991-FBFC877FEDF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35784E8A-E4FB-4662-8991-FBFC877FEDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35784E8A-E4FB-4662-8991-FBFC877FEDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35784E8A-E4FB-4662-8991-FBFC877FEDF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E388DDD-ADCF-408B-958D-21D06F80E693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E388DDD-ADCF-408B-958D-21D06F80E693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E388DDD-ADCF-408B-958D-21D06F80E693}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E388DDD-ADCF-408B-958D-21D06F80E693}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607ECC12-A5E5-4D96-90BB-EC5A349F4CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607ECC12-A5E5-4D96-90BB-EC5A349F4CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607ECC12-A5E5-4D96-90BB-EC5A349F4CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607ECC12-A5E5-4D96-90BB-EC5A349F4CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{186E43A5-96B6-4CF4-BEE2-2BD91E84B428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186E43A5-96B6-4CF4-BEE2-2BD91E84B428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186E43A5-96B6-4CF4-BEE2-2BD91E84B428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186E43A5-96B6-4CF4-BEE2-2BD91E84B428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

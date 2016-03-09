@@ -4,12 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Person
+namespace Aggregates
 {
-    public abstract class Person
+    class Program
     {
-        public string Gender { get; set; }
-
-        public abstract string Doing();
+        static void Main(string[] args)
+        {
+        }
     }
 }

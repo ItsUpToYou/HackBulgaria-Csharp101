@@ -6,7 +6,24 @@ using System.Threading.Tasks;
 
 namespace Person
 {
-    class Child
+
+    public class Child : Person
     {
+        public Toys ChildToys { get; set; }
+
+        public Child(Toys t)
+        {
+            this.ChildToys = t;
+        }
+
+        public override string ToString()
+        {
+            return string.Join("{0}{1}", ChildToys.ToString());
+        }
+
+        public override string Doing()
+        {
+            return "Play";
+        }
     }
 }
