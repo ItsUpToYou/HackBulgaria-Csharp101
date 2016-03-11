@@ -32,7 +32,6 @@ namespace BubbleSort
 
                 }
             }
-
             return list;
         }
     }
