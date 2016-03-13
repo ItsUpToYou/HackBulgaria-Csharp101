@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace SelectionSort
 {
@@ -22,8 +18,20 @@ namespace SelectionSort
             }
             if (secondLenght > 1)
             {
-                first = int.Parse(x.ToString()[second - 1].ToString());
+                first = int.Parse(y.ToString()[secondLenght - 1].ToString());
+            }
 
+            if (first > second)
+            {
+                return 1;
+            }
+            else if (first < second)
+            {
+                return -1;
+            }
+            else
+            {
+                return 0;
             }
         }
     }
