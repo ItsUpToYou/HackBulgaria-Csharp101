@@ -4,15 +4,17 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D5070A81-D277-4FF1-ADC6-9A1B6674A393}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <ProjectGuid>{E6740DA9-3DF7-4744-A7FD-08C819E72DAD}</ProjectGuid>
+    <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>DungeonsAndLizards.Models</RootNamespace>
-    <AssemblyName>DungeonsAndLizards.Models</AssemblyName>
+    <RootNamespace>DungeonLizzardsWarStart</RootNamespace>
+    <AssemblyName>DungeonLizzardsWarStart</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -22,6 +24,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -40,17 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Direction.cs" />
-    <Compile Include="Dungeon.cs" />
-    <Compile Include="Enemy.cs" />
-    <Compile Include="Hero.cs" />
-    <Compile Include="IComponents.cs" />
-    <Compile Include="ITreasure.cs" />
-    <Compile Include="Potion.cs" />
-    <Compile Include="PotionType.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Spell.cs" />
-    <Compile Include="Weapon.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\DungeonsAndLizards.Models\DungeonsAndLizards.Models.csproj">
+      <Project>{d5070a81-d277-4ff1-adc6-9a1b6674a393}</Project>
+      <Name>DungeonsAndLizards.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

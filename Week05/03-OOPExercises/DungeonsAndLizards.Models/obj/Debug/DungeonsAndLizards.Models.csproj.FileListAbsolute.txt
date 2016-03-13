@@ -1,0 +1,5 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\03-OOPExercises\DungeonsAndLizards.Models\bin\Debug\DungeonsAndLizards.Models.dll
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\03-OOPExercises\DungeonsAndLizards.Models\bin\Debug\DungeonsAndLizards.Models.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\03-OOPExercises\DungeonsAndLizards.Models\obj\Debug\DungeonsAndLizards.Models.csprojResolveAssemblyReference.cache
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\03-OOPExercises\DungeonsAndLizards.Models\obj\Debug\DungeonsAndLizards.Models.dll
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\03-OOPExercises\DungeonsAndLizards.Models\obj\Debug\DungeonsAndLizards.Models.pdb

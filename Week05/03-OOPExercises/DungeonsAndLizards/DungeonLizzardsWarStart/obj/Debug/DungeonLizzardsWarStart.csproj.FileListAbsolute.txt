@@ -1,0 +1,16 @@
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\DungeonsAndLizards\DungeonLizzardsWarStart\bin\Debug\DungeonLizzardsWarStart.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\DungeonsAndLizards\DungeonLizzardsWarStart\bin\Debug\DungeonLizzardsWarStart.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\DungeonsAndLizards\DungeonLizzardsWarStart\bin\Debug\DungeonLizzardsWarStart.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\DungeonsAndLizards\DungeonLizzardsWarStart\bin\Debug\DungeonsAndLizards.Models.dll
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\DungeonsAndLizards\DungeonLizzardsWarStart\bin\Debug\DungeonsAndLizards.Models.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\DungeonsAndLizards\DungeonLizzardsWarStart\obj\Debug\DungeonLizzardsWarStart.csprojResolveAssemblyReference.cache
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\DungeonsAndLizards\DungeonLizzardsWarStart\obj\Debug\DungeonLizzardsWarStart.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\DungeonsAndLizards\DungeonLizzardsWarStart\obj\Debug\DungeonLizzardsWarStart.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\03-OOPExercises\DungeonsAndLizards\DungeonLizzardsWarStart\bin\Debug\DungeonLizzardsWarStart.exe.config
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\03-OOPExercises\DungeonsAndLizards\DungeonLizzardsWarStart\obj\Debug\DungeonLizzardsWarStart.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\03-OOPExercises\DungeonsAndLizards\DungeonLizzardsWarStart\obj\Debug\DungeonLizzardsWarStart.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\03-OOPExercises\DungeonsAndLizards\DungeonLizzardsWarStart\bin\Debug\DungeonLizzardsWarStart.exe
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\03-OOPExercises\DungeonsAndLizards\DungeonLizzardsWarStart\bin\Debug\DungeonLizzardsWarStart.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\03-OOPExercises\DungeonsAndLizards\DungeonLizzardsWarStart\bin\Debug\DungeonsAndLizards.Models.dll
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\03-OOPExercises\DungeonsAndLizards\DungeonLizzardsWarStart\bin\Debug\DungeonsAndLizards.Models.pdb
+C:\Users\velko.kapitanov\Documents\Visual Studio 2015\HackBulgaria-Csharp101\Week05\03-OOPExercises\DungeonsAndLizards\DungeonLizzardsWarStart\obj\Debug\DungeonLizzardsWarStart.csprojResolveAssemblyReference.cache
