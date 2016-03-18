@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlMarkupBuilderClass", "XmlMarkupBuilderClass\XmlMarkupBuilderClass.csproj", "{A469C3D7-299D-46E5-95F0-10BB0D8D0429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlMarkupBuilderLib", "XmlMarkupBuilderLib\XmlMarkupBuilderLib.csproj", "{DF9F3CF5-30EC-4D0E-82AC-CDA13D5DB95B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A469C3D7-299D-46E5-95F0-10BB0D8D0429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A469C3D7-299D-46E5-95F0-10BB0D8D0429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A469C3D7-299D-46E5-95F0-10BB0D8D0429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A469C3D7-299D-46E5-95F0-10BB0D8D0429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF9F3CF5-30EC-4D0E-82AC-CDA13D5DB95B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF9F3CF5-30EC-4D0E-82AC-CDA13D5DB95B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF9F3CF5-30EC-4D0E-82AC-CDA13D5DB95B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF9F3CF5-30EC-4D0E-82AC-CDA13D5DB95B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
