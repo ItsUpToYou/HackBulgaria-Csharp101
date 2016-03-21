@@ -10,14 +10,12 @@ namespace Collection
     {
         static void Main(string[] args)
         {
-
-            NotifyCollection collection = new NotifyCollection();
-            collection.CollectionChanged += OnCollectionChange;
-            collection.Add(56);
-            collection.Add(44);
-            collection.Clear();
-            collection.Add(55);
-            collection[0] = 100;
+            NotifyCollection test = new NotifyCollection();
+            test.CollectionChanged += OnCollectionChange;
+            test.Add(23);
+            test.Clear();
+            test.Add(15);
+            test[0] = 13;
         }
 
         private static void OnCollectionChange(object sender, NotifyArgs e)
