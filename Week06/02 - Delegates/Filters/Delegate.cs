@@ -8,7 +8,7 @@ namespace Filters
 {
     public class Delegate
     {
-        public delegate bool FilterDelegate<T>(T element);
+        public delegate bool FilterDelegate<T>(T element);  
 
         public static List<T> FilterCollection<T>(List<T> original, FilterDelegate<T> filter)
         {
@@ -24,6 +24,13 @@ namespace Filters
             return list;
         }
 
-
+        public static bool IsInRange(int number)
+        {
+            if (number >= 10 && number <= 15)
+            {
+                return true;
+            }
+            return false;
+        }
     }
 }

@@ -8,17 +8,68 @@ namespace Aggregates
 {
     public static class Delegate
     {
-        public delegate T AggregationDelegate<T>(T element, T element2, int pos);
+        public delegate decimal AggregationDelegate(List<int> num);
 
-        public static T AggregateCollection<T>(List<T> original, AggregationDelegate<T> aggregation)
+        public static decimal AggregateCollection(List<int> original, AggregationDelegate aggregation)
         {
-            var result = original[0];
+            
+            return aggregation(original);
+        }
 
-            for (int i = 0; i < original.Count; i++)
+        public static void Min(List<int> numbers)
+        {
+            int minNumber = numbers.ElementAt(0);
+            for (int i = 1; i < numbers.Count; i++)
             {
-                result = aggregation(result, original[i], i);
+                if (numbers.ElementAt(i) < minNumber)
+                {
+                    minNumber = numbers.ElementAt(i);
+                }
             }
-            return result;
+            Console.WriteLine("Min Number: {0}", minNumber);
+        }
+
+        public static void Max(List<int> numbers)
+        {
+            int maxNumber = numbers.ElementAt(0);
+            for (int i = 1; i < numbers.Count; i++)
+            {
+                if (numbers.ElementAt(i) > maxNumber)
+                {
+                    maxNumber = numbers.ElementAt(i);
+                }
+            }
+            Console.WriteLine("Max Number: {0}",maxNumber);
+        }
+
+        public static void Sum(List<int> numbers)
+        {
+            var sum = 0;
+            foreach (var number in numbers)
+            {
+                sum += number;
+            }
+            Console.WriteLine("Sum Of Numbers: {0}", sum);
+        }
+
+        public static void Average(List<int> numbers)
+        {
+            double sum = 0;
+            foreach (var number in numbers)
+            {
+                sum += number;
+            }
+            Console.WriteLine("Numbers Average: {0:F2}", sum / numbers.Count);
+        }
+
+        public static decimal CalculateAvarage(List<int> numbers)
+        {
+            decimal sum = 0;
+            foreach (var number in numbers)
+            {
+                sum += number;
+            }
+            return sum / numbers.Count;
         }
     }
 }

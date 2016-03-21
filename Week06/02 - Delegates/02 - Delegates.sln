@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageAggregator", "Averag
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INotifyPropertyCh", "INotifyPropertyCh\INotifyPropertyCh.csproj", "{186E43A5-96B6-4CF4-BEE2-2BD91E84B428}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Collection.csproj", "{533608C2-6CA6-4174-A512-29B66C261EA3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{186E43A5-96B6-4CF4-BEE2-2BD91E84B428}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{186E43A5-96B6-4CF4-BEE2-2BD91E84B428}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{186E43A5-96B6-4CF4-BEE2-2BD91E84B428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{533608C2-6CA6-4174-A512-29B66C261EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533608C2-6CA6-4174-A512-29B66C261EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533608C2-6CA6-4174-A512-29B66C261EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533608C2-6CA6-4174-A512-29B66C261EA3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
